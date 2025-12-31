@@ -12,7 +12,7 @@ Product sales analytics
 Revenue and profitability insights
 Order behavior patterns
 Real-world business problem solving
-This case study demonstrates my skills as a Data Analyst / SQL Developer.```
+This case study demonstrates my skills as a Data Analyst / SQL Developer.
 
 🗂️ Database Schema (ERD Overview)
 
@@ -91,5 +91,5 @@ This enables granular sales and customer insights.
 12) Create a summary table daily_sales_summary and insert aggregated revenue for each day from the Orders and OrderItems tables.
 13) Add a new column profit_margin to OrderItems and populate it using unit_price, discount, and product cost (from Products).
 14) Create an index on Orders(order_date) and show query improvement using EXPLAIN for a monthly sales report.
-15) Find products whose return rate is higher than the overall average return rate, using window functions or category-wise comparison.
+15) Find products whose return rate is higher than the overall average return rate, using window functions or category-wise comparison.```
 
