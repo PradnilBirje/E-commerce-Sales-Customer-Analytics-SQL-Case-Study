@@ -18,7 +18,7 @@ This case study demonstrates my skills as a Data Analyst / SQL Developer.
 
 The dataset contains four interconnected tables:
 
-1. Customers
+```1. Customers
 Column	            Description
 customer_id	      Unique customer identifier
 full_name	        Customer first name
@@ -55,7 +55,7 @@ Column	            Description
 return_id (PK)	
 order_id (FK)	
 return_date	
-reason
+reason```
 
 🌐 Database Model Summary
 1 customer → many orders
