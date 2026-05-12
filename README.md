@@ -121,8 +121,8 @@ The case study focuses on solving practical business problems through optimized 
 - ATS-friendly GitHub repository
 
 ## 👨‍💻 Author
-Pradnil Birje
-Data Analyst | SQL | Python | Power BI
+Pradnil Birje  
+Data Analyst | SQL | Python | Power BI  
 - LinkedIn: https://www.linkedin.com/in/pradnilbirje24/  
 - GitHub: https://github.com/PradnilBirje
 
