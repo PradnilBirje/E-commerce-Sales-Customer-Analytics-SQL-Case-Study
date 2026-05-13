@@ -1,7 +1,7 @@
-## E-commerce-Sales-Customer-Analytics-SQL-Case-Study
+## E commerce Sales Customer Analytics SQL Case Study
 
-This project simulates a real-world e-commerce business database to analyze customer behavior, sales performance, product trends, and return patterns using SQL.  
-The case study focuses on solving practical business problems through optimized SQL queries, analytical thinking, and database design.
+- This project simulates a real-world e-commerce business database to analyze customer behavior, sales performance, product trends, and return patterns using SQL.  
+- The case study focuses on solving practical business problems through optimized SQL queries, analytical thinking, and database design.
 
 
 ## 🛠️ Technologies  
@@ -112,6 +112,15 @@ The case study focuses on solving practical business problems through optimized 
 - Run the SQL file  
 - Execute analytical queries  
 - Review outputs and insights
+
+
+## 📸 Project Preview
+ER Diagram
+
+<p align="center">
+  <img src="E-commerce sales & customer Analytics ER Diagram.png" width="800"/>
+</p>
+
 
 ## 🏆 Key Highlights
 - 15+ SQL business problems solved  
