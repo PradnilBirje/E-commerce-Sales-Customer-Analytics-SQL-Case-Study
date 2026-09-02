@@ -101,7 +101,7 @@ Views
 - Create API-connected live database version
 
 
-## ▶️ Running the Project
+## Running the Project
 - Clone the repository  
 - Open MySQL Workbench  
 - Run the SQL file  
@@ -109,7 +109,7 @@ Views
 - Review outputs and insights
 
 
-## 📸 Project Preview
+## Project Preview
 ER Diagram
 
 <p align="center">
